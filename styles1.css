@@ -1,0 +1,65 @@
+body{
+    font-family:arial; 
+}
+.header{
+    background-color:white;
+    height: 90px;
+    color: black;
+}
+.header-logo{
+    float:left;
+    font-size:36px;
+    padding: 20px 100px;
+}
+.nav {
+    float:right;
+    padding: 20px 105px;
+    word-spacing:10px;
+}
+
+.nav li{
+    list-style-type: square;
+    display: inline;
+}
+.main{
+    background-color: white;
+    padding: 10px 100px;
+}
+.title-underline{
+    border-bottom: 2px solid #dee7ec;
+}
+.portfolio{
+    height:500px;
+}
+.portfolio-item{
+    float:left;
+    box-sizing:border-box;
+}
+.myimage{
+    float:left;
+    padding-right: 20px;
+    padding-bottom:20px;
+}
+
+.exp-cert {
+    list-style-type: none;
+    float:left;
+    /*display: inline;*/
+
+}
+p{
+    font-size:13px;
+    text-align:justify;
+    border-right:100px;
+}
+.port-img{
+    float:right;
+    padding-left:40px;
+}
+.comp-port{
+    padding: 10px 100px;
+
+}
+.footer{
+    font-size:13px;
+}
